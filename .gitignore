@@ -1,0 +1,23 @@
+# Python byte-code & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Application configuration & logs
+.steam_workshop_downloader/
+error_log.txt
+*.decomp
+
+# Default download folders & previews
+Downloads/
+SteamWorkshop/
+previews/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

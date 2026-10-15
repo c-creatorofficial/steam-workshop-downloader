@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-3.0.0-blue.svg)](https://github.com/c-creatorofficial/steam-workshop-downloader/releases/download/new-versian/steam.workshop.downloader.V3.py)
+[![Version](https://img.shields.io/badge/Version-3.0.0-blue.svg)](https://github.com/c-creatorofficial/steam-workshop-downloader/releases/)
 
 A zero-setup, single-file CLI application designed for inspecting, crawling, batch-downloading, and extracting Steam Workshop items across all Workshop-enabled games (Garry's Mod, Source Filmmaker, Team Fortress 2, Counter-Strike 2, Half-Life: Alyx, RimWorld, Rust, Terraria, Wallpaper Engine, and more) with advanced security scanning, audit reporting, rate-limiting protection, and automated maintenance features.
 

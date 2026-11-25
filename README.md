@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-4.0.0-blue.svg)](https://github.com/c-creatorofficial/steam-workshop-downloader/releases/)
+[![Version](https://img.shields.io/badge/Version-4.0.1-blue.svg)](https://github.com/c-creatorofficial/steam-workshop-downloader/releases/)
 
 A single-file, interactive CLI application for inspecting, crawling, downloading, extracting, and organizing Steam Workshop content across Workshop-enabled games. It combines direct Steam CDN downloads with SteamCMD fallback, creator and collection crawling, batch queues, archive processing, update monitoring, security checks, audit reports, and configurable local storage.
 
